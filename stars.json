@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "stepzen-dev/nextjs-password-checker",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "j4rola/wordle",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,21 +13,21 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 2864,
+    "stargazers_count": 2913,
     "open_issues_count": 0,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 17542,
-    "open_issues_count": 26,
-    "forks_count": 964
+    "stargazers_count": 17593,
+    "open_issues_count": 29,
+    "forks_count": 966
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 29147,
-    "open_issues_count": 323,
-    "forks_count": 614
+    "stargazers_count": 29824,
+    "open_issues_count": 347,
+    "forks_count": 638
   },
   {
     "full_name": "stepzen-dev/snippets",
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 10264,
-    "open_issues_count": 78,
-    "forks_count": 311
+    "stargazers_count": 10418,
+    "open_issues_count": 77,
+    "forks_count": 316
   },
   {
     "full_name": "cassidoo/better-security-questions",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 127,
-    "open_issues_count": 77,
+    "stargazers_count": 128,
+    "open_issues_count": 78,
     "forks_count": 1
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2338,
+    "stargazers_count": 2349,
     "open_issues_count": 7,
-    "forks_count": 389
+    "forks_count": 390
   },
   {
     "full_name": "cyrilwanner/next-optimized-images",
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 98,
-    "open_issues_count": 27,
+    "stargazers_count": 107,
+    "open_issues_count": 31,
     "forks_count": 44
   },
   {
@@ -86,7 +92,7 @@
   {
     "full_name": "BenDMyers/showmy.chat",
     "stargazers_count": 48,
-    "open_issues_count": 25,
+    "open_issues_count": 24,
     "forks_count": 18
   },
   {
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "thollander/actions-comment-pull-request",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 1,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "Sahana-Srinivasan/scrollytelling",
@@ -109,13 +115,13 @@
   },
   {
     "full_name": "github/linguist",
-    "stargazers_count": 10075,
-    "open_issues_count": 108,
-    "forks_count": 3650
+    "stargazers_count": 10080,
+    "open_issues_count": 109,
+    "forks_count": 3648
   },
   {
     "full_name": "lenguaje-latino/latino",
-    "stargazers_count": 360,
+    "stargazers_count": 361,
     "open_issues_count": 17,
     "forks_count": 49
   },
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 136318,
-    "open_issues_count": 292,
-    "forks_count": 76400
+    "stargazers_count": 136503,
+    "open_issues_count": 295,
+    "forks_count": 76457
   },
   {
     "full_name": "stepzen-dev/workshop-graphql-frontend",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 5043,
-    "open_issues_count": 75,
-    "forks_count": 393
+    "stargazers_count": 5064,
+    "open_issues_count": 74,
+    "forks_count": 397
   },
   {
     "full_name": "nickytonline/a11y-twitter",
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "thomaswang/next-chrome",
-    "stargazers_count": 38,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "FormidableLabs/urql",
-    "stargazers_count": 7356,
-    "open_issues_count": 31,
-    "forks_count": 336
   }
 ]
