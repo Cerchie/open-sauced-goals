@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Blizzard/node-rdkafka",
+    "stargazers_count": 1909,
+    "open_issues_count": 48,
+    "forks_count": 367
+  },
+  {
     "full_name": "apache/kafka",
     "stargazers_count": 23370,
     "open_issues_count": 1006,
