@@ -26,7 +26,7 @@
   {
     "full_name": "nickytonline/connect-four",
     "stargazers_count": 7,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 11
   },
   {
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 17873,
+    "stargazers_count": 17874,
     "open_issues_count": 25,
     "forks_count": 986
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 35322,
-    "open_issues_count": 406,
-    "forks_count": 831
+    "stargazers_count": 35339,
+    "open_issues_count": 409,
+    "forks_count": 832
   },
   {
     "full_name": "stepzen-dev/snippets",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 14148,
-    "open_issues_count": 68,
-    "forks_count": 446
+    "stargazers_count": 14174,
+    "open_issues_count": 69,
+    "forks_count": 447
   },
   {
     "full_name": "cassidoo/better-security-questions",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2544,
+    "stargazers_count": 2547,
     "open_issues_count": 7,
     "forks_count": 432
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 31,
     "forks_count": 69
   },
@@ -153,7 +153,7 @@
     "full_name": "stepzen-dev/examples",
     "stargazers_count": 20,
     "open_issues_count": 7,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "thomasheyenbrock/remix-graphql",
