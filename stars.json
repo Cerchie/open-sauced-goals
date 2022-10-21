@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "apache/kafka",
+    "stargazers_count": 23370,
+    "open_issues_count": 1006,
+    "forks_count": 11984
+  },
+  {
     "full_name": "j4rola/nestapp",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -172,11 +178,5 @@
     "stargazers_count": 54,
     "open_issues_count": 28,
     "forks_count": 18
-  },
-  {
-    "full_name": "heatsynclabs/new-hsl",
-    "stargazers_count": 15,
-    "open_issues_count": 6,
-    "forks_count": 22
   }
 ]

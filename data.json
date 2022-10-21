@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "apache/kafka",
+    "stargazers_count": 23370,
+    "open_issues_count": 1006,
+    "forks_count": 11984
+  },
+  {
     "full_name": "tulios/kafkajs",
     "stargazers_count": 2916,
     "open_issues_count": 196,
