@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "deepgram-devs/live-transcription-badge",
+    "stargazers_count": 6,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "rmoff/devrel-mastodon",
+    "stargazers_count": 16,
+    "open_issues_count": 3,
+    "forks_count": 37
+  },
+  {
     "full_name": "Cerchie/bare-bones-vanilla",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -25,9 +37,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23489,
-    "open_issues_count": 1007,
-    "forks_count": 12019
+    "stargazers_count": 23517,
+    "open_issues_count": 1012,
+    "forks_count": 12031
   },
   {
     "full_name": "j4rola/nestapp",
@@ -43,13 +55,13 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 2934,
-    "open_issues_count": 201,
-    "forks_count": 402
+    "stargazers_count": 2943,
+    "open_issues_count": 202,
+    "forks_count": 403
   },
   {
     "full_name": "gklijs/schema_registry_converter",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 3,
     "forks_count": 20
   },
@@ -67,7 +79,7 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1245,
+    "stargazers_count": 1248,
     "open_issues_count": 1,
     "forks_count": 801
   },
@@ -121,62 +133,50 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3143,
+    "stargazers_count": 3142,
     "open_issues_count": 0,
     "forks_count": 124
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 17894,
-    "open_issues_count": 26,
+    "stargazers_count": 17902,
+    "open_issues_count": 24,
     "forks_count": 990
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 35857,
-    "open_issues_count": 383,
-    "forks_count": 849
+    "stargazers_count": 35929,
+    "open_issues_count": 375,
+    "forks_count": 850
   },
   {
     "full_name": "stepzen-dev/snippets",
-    "stargazers_count": 14,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 14909,
-    "open_issues_count": 76,
-    "forks_count": 467
+    "stargazers_count": 15015,
+    "open_issues_count": 78,
+    "forks_count": 475
   },
   {
     "full_name": "cassidoo/better-security-questions",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 204,
-    "open_issues_count": 194,
+    "stargazers_count": 208,
+    "open_issues_count": 198,
     "forks_count": 2
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2564,
+    "stargazers_count": 2573,
     "open_issues_count": 8,
     "forks_count": 436
-  },
-  {
-    "full_name": "cyrilwanner/next-optimized-images",
-    "stargazers_count": 2106,
-    "open_issues_count": 126,
-    "forks_count": 93
-  },
-  {
-    "full_name": "open-sauced/hot",
-    "stargazers_count": 185,
-    "open_issues_count": 31,
-    "forks_count": 70
   }
 ]
