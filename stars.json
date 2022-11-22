@@ -1,21 +1,21 @@
 [
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2535,
-    "open_issues_count": 29,
-    "forks_count": 150
+    "stargazers_count": 2549,
+    "open_issues_count": 28,
+    "forks_count": 149
   },
   {
     "full_name": "apache/kafka-site",
     "stargazers_count": 52,
     "open_issues_count": 13,
-    "forks_count": 221
+    "forks_count": 222
   },
   {
     "full_name": "rmoff/devrel-mastodon",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 44
+    "stargazers_count": 30,
+    "open_issues_count": 5,
+    "forks_count": 59
   },
   {
     "full_name": "Cerchie/bare-bones-vanilla",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23565,
-    "open_issues_count": 1023,
-    "forks_count": 12076
+    "stargazers_count": 23592,
+    "open_issues_count": 1025,
+    "forks_count": 12084
   },
   {
     "full_name": "j4rola/nestapp",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 2956,
-    "open_issues_count": 207,
-    "forks_count": 407
+    "stargazers_count": 2963,
+    "open_issues_count": 211,
+    "forks_count": 409
   },
   {
     "full_name": "gklijs/schema_registry_converter",
     "stargazers_count": 67,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 20
   },
   {
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1252,
+    "stargazers_count": 1257,
     "open_issues_count": 1,
-    "forks_count": 805
+    "forks_count": 807
   },
   {
     "full_name": "Cerchie/sample-sdk",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3150,
+    "stargazers_count": 3151,
     "open_issues_count": 0,
     "forks_count": 125
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 17912,
+    "stargazers_count": 17917,
     "open_issues_count": 24,
-    "forks_count": 991
+    "forks_count": 990
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 36121,
-    "open_issues_count": 391,
-    "forks_count": 860
+    "stargazers_count": 36189,
+    "open_issues_count": 403,
+    "forks_count": 858
   },
   {
     "full_name": "stepzen-dev/snippets",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 15268,
-    "open_issues_count": 77,
-    "forks_count": 481
+    "stargazers_count": 15442,
+    "open_issues_count": 83,
+    "forks_count": 491
   },
   {
     "full_name": "cassidoo/better-security-questions",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 213,
-    "open_issues_count": 205,
+    "stargazers_count": 216,
+    "open_issues_count": 208,
     "forks_count": 2
   }
 ]
