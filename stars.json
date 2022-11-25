@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "danicafine/thanksgiving-pie-survey-bot",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2549,
+    "stargazers_count": 2562,
     "open_issues_count": 28,
     "forks_count": 149
   },
@@ -9,13 +15,13 @@
     "full_name": "apache/kafka-site",
     "stargazers_count": 52,
     "open_issues_count": 13,
-    "forks_count": 222
+    "forks_count": 223
   },
   {
     "full_name": "rmoff/devrel-mastodon",
-    "stargazers_count": 30,
-    "open_issues_count": 5,
-    "forks_count": 59
+    "stargazers_count": 35,
+    "open_issues_count": 0,
+    "forks_count": 64
   },
   {
     "full_name": "Cerchie/bare-bones-vanilla",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23592,
-    "open_issues_count": 1025,
-    "forks_count": 12084
+    "stargazers_count": 23602,
+    "open_issues_count": 1032,
+    "forks_count": 12088
   },
   {
     "full_name": "j4rola/nestapp",
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "confluentinc/coding-in-motion",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 2963,
+    "stargazers_count": 2969,
     "open_issues_count": 211,
-    "forks_count": 409
+    "forks_count": 410
   },
   {
     "full_name": "gklijs/schema_registry_converter",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1257,
+    "stargazers_count": 1258,
     "open_issues_count": 1,
-    "forks_count": 807
+    "forks_count": 809
   },
   {
     "full_name": "Cerchie/sample-sdk",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "adiati98/adiati98",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3151,
+    "stargazers_count": 3152,
     "open_issues_count": 0,
     "forks_count": 125
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 17917,
+    "stargazers_count": 17923,
     "open_issues_count": 24,
-    "forks_count": 990
+    "forks_count": 991
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 36189,
-    "open_issues_count": 403,
-    "forks_count": 858
+    "stargazers_count": 36251,
+    "open_issues_count": 411,
+    "forks_count": 861
   },
   {
     "full_name": "stepzen-dev/snippets",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 15442,
-    "open_issues_count": 83,
-    "forks_count": 491
+    "stargazers_count": 15652,
+    "open_issues_count": 78,
+    "forks_count": 499
   },
   {
     "full_name": "cassidoo/better-security-questions",
     "stargazers_count": 137,
     "open_issues_count": 1,
     "forks_count": 30
-  },
-  {
-    "full_name": "maintainers/invite-automation",
-    "stargazers_count": 216,
-    "open_issues_count": 208,
-    "forks_count": 2
   }
 ]
