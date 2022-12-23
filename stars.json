@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "caro401/public-notes",
+    "stargazers_count": 2,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "j4rola/custom-express-errors",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3140,
+    "stargazers_count": 3143,
     "open_issues_count": 64,
     "forks_count": 36
   },
@@ -25,14 +31,14 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2632,
+    "stargazers_count": 2638,
     "open_issues_count": 29,
     "forks_count": 154
   },
   {
     "full_name": "apache/kafka-site",
-    "stargazers_count": 52,
-    "open_issues_count": 15,
+    "stargazers_count": 53,
+    "open_issues_count": 14,
     "forks_count": 226
   },
   {
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23748,
-    "open_issues_count": 1016,
-    "forks_count": 12147
+    "stargazers_count": 23768,
+    "open_issues_count": 1013,
+    "forks_count": 12158
   },
   {
     "full_name": "j4rola/nestapp",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3006,
-    "open_issues_count": 217,
-    "forks_count": 412
+    "stargazers_count": 3009,
+    "open_issues_count": 218,
+    "forks_count": 413
   },
   {
     "full_name": "gklijs/schema_registry_converter",
@@ -98,7 +104,7 @@
   {
     "full_name": "nickytonline/connect-four",
     "stargazers_count": 8,
-    "open_issues_count": 10,
+    "open_issues_count": 5,
     "forks_count": 16
   },
   {
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1269,
+    "stargazers_count": 1271,
     "open_issues_count": 1,
-    "forks_count": 812
+    "forks_count": 813
   },
   {
     "full_name": "Cerchie/sample-sdk",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3180,
+    "stargazers_count": 3182,
     "open_issues_count": 0,
     "forks_count": 127
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 18106,
+    "stargazers_count": 18120,
     "open_issues_count": 26,
-    "forks_count": 1008
-  },
-  {
-    "full_name": "oven-sh/bun",
-    "stargazers_count": 36837,
-    "open_issues_count": 421,
-    "forks_count": 878
+    "forks_count": 1007
   }
 ]
