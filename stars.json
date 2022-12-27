@@ -13,7 +13,7 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3143,
+    "stargazers_count": 3150,
     "open_issues_count": 64,
     "forks_count": 36
   },
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2638,
+    "stargazers_count": 2644,
     "open_issues_count": 29,
     "forks_count": 154
   },
   {
     "full_name": "apache/kafka-site",
     "stargazers_count": 53,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 226
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23768,
-    "open_issues_count": 1013,
-    "forks_count": 12158
+    "stargazers_count": 23789,
+    "open_issues_count": 1012,
+    "forks_count": 12170
   },
   {
     "full_name": "j4rola/nestapp",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3009,
+    "stargazers_count": 3013,
     "open_issues_count": 218,
     "forks_count": 413
   },
@@ -104,7 +104,7 @@
   {
     "full_name": "nickytonline/connect-four",
     "stargazers_count": 8,
-    "open_issues_count": 5,
+    "open_issues_count": 10,
     "forks_count": 16
   },
   {
@@ -117,7 +117,7 @@
     "full_name": "confluentinc/demo-scene",
     "stargazers_count": 1271,
     "open_issues_count": 1,
-    "forks_count": 813
+    "forks_count": 814
   },
   {
     "full_name": "Cerchie/sample-sdk",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3182,
+    "stargazers_count": 3187,
     "open_issues_count": 0,
     "forks_count": 127
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 18120,
+    "stargazers_count": 18124,
     "open_issues_count": 26,
     "forks_count": 1007
   }
