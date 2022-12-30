@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Blizzard/node-rdkafka",
+    "stargazers_count": 1924,
+    "open_issues_count": 55,
+    "forks_count": 369
+  },
+  {
     "full_name": "caro401/public-notes",
     "stargazers_count": 2,
     "open_issues_count": 4,
@@ -13,8 +19,8 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3150,
-    "open_issues_count": 64,
+    "stargazers_count": 3153,
+    "open_issues_count": 63,
     "forks_count": 36
   },
   {
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2644,
+    "stargazers_count": 2656,
     "open_issues_count": 29,
     "forks_count": 154
   },
@@ -39,7 +45,7 @@
     "full_name": "apache/kafka-site",
     "stargazers_count": 53,
     "open_issues_count": 15,
-    "forks_count": 226
+    "forks_count": 227
   },
   {
     "full_name": "rmoff/devrel-mastodon",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23789,
-    "open_issues_count": 1012,
-    "forks_count": 12170
+    "stargazers_count": 23811,
+    "open_issues_count": 973,
+    "forks_count": 12178
   },
   {
     "full_name": "j4rola/nestapp",
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3013,
+    "stargazers_count": 3015,
     "open_issues_count": 218,
     "forks_count": 413
   },
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1271,
+    "stargazers_count": 1272,
     "open_issues_count": 1,
-    "forks_count": 814
+    "forks_count": 816
   },
   {
     "full_name": "Cerchie/sample-sdk",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3187,
+    "stargazers_count": 3189,
     "open_issues_count": 0,
     "forks_count": 127
-  },
-  {
-    "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 18124,
-    "open_issues_count": 26,
-    "forks_count": 1007
   }
 ]
