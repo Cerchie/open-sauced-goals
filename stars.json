@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Blizzard/node-rdkafka",
-    "stargazers_count": 1924,
+    "stargazers_count": 1925,
     "open_issues_count": 55,
-    "forks_count": 369
+    "forks_count": 370
   },
   {
     "full_name": "caro401/public-notes",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3153,
+    "stargazers_count": 3154,
     "open_issues_count": 63,
     "forks_count": 36
   },
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2656,
-    "open_issues_count": 29,
-    "forks_count": 154
+    "stargazers_count": 2664,
+    "open_issues_count": 21,
+    "forks_count": 155
   },
   {
     "full_name": "apache/kafka-site",
     "stargazers_count": 53,
     "open_issues_count": 15,
-    "forks_count": 227
+    "forks_count": 228
   },
   {
     "full_name": "rmoff/devrel-mastodon",
     "stargazers_count": 38,
     "open_issues_count": 0,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "Cerchie/bare-bones-vanilla",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23811,
-    "open_issues_count": 973,
-    "forks_count": 12178
+    "stargazers_count": 23831,
+    "open_issues_count": 974,
+    "forks_count": 12187
   },
   {
     "full_name": "j4rola/nestapp",
@@ -98,8 +98,8 @@
   {
     "full_name": "tulios/kafkajs",
     "stargazers_count": 3015,
-    "open_issues_count": 218,
-    "forks_count": 413
+    "open_issues_count": 219,
+    "forks_count": 412
   },
   {
     "full_name": "gklijs/schema_registry_converter",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1272,
+    "stargazers_count": 1274,
     "open_issues_count": 1,
-    "forks_count": 816
+    "forks_count": 820
   },
   {
     "full_name": "Cerchie/sample-sdk",
@@ -135,7 +135,7 @@
     "full_name": "adiati98/adiati98",
     "stargazers_count": 18,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 8
   },
   {
     "full_name": "dewan-ahmed/recruiter-response-template",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3189,
+    "stargazers_count": 3192,
     "open_issues_count": 0,
     "forks_count": 127
   }
