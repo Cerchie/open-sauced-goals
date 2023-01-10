@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "GantMan/Public_Speaking_Hits",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "MaggieAppleton/invenntion",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "janpaepke/ScrollMagic",
-    "stargazers_count": 14122,
-    "open_issues_count": 514,
-    "forks_count": 2060
+    "stargazers_count": 14125,
+    "open_issues_count": 515,
+    "forks_count": 2059
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 44093,
+    "stargazers_count": 44126,
     "open_issues_count": 191,
-    "forks_count": 3633
+    "forks_count": 3631
   },
   {
     "full_name": "Blizzard/node-rdkafka",
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3156,
+    "stargazers_count": 3176,
     "open_issues_count": 63,
     "forks_count": 36
   },
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2679,
+    "stargazers_count": 2696,
     "open_issues_count": 21,
-    "forks_count": 155
+    "forks_count": 156
   },
   {
     "full_name": "apache/kafka-site",
     "stargazers_count": 53,
-    "open_issues_count": 15,
-    "forks_count": 229
+    "open_issues_count": 14,
+    "forks_count": 231
   },
   {
     "full_name": "rmoff/devrel-mastodon",
@@ -91,9 +103,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 23861,
-    "open_issues_count": 978,
-    "forks_count": 12197
+    "stargazers_count": 23890,
+    "open_issues_count": 979,
+    "forks_count": 12198
   },
   {
     "full_name": "j4rola/nestapp",
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3018,
-    "open_issues_count": 223,
-    "forks_count": 412
+    "stargazers_count": 3022,
+    "open_issues_count": 224,
+    "forks_count": 413
   },
   {
     "full_name": "gklijs/schema_registry_converter",
@@ -122,7 +134,7 @@
   {
     "full_name": "nickytonline/connect-four",
     "stargazers_count": 8,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 16
   },
   {
@@ -135,7 +147,7 @@
     "full_name": "confluentinc/demo-scene",
     "stargazers_count": 1278,
     "open_issues_count": 2,
-    "forks_count": 822
+    "forks_count": 824
   },
   {
     "full_name": "Cerchie/sample-sdk",
@@ -163,18 +175,6 @@
   },
   {
     "full_name": "vlukashov/madeup-social-graphql-demo",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tkshill/Template",
-    "stargazers_count": 11,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "stepzen-dev/nextjs-password-checker",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
