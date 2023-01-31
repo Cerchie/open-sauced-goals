@@ -7,13 +7,13 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 18352,
-    "open_issues_count": 139,
-    "forks_count": 1666
+    "stargazers_count": 19223,
+    "open_issues_count": 153,
+    "forks_count": 1787
   },
   {
     "full_name": "confluentinc/kafka-rest",
-    "stargazers_count": 2057,
+    "stargazers_count": 2059,
     "open_issues_count": 270,
     "forks_count": 625
   },
@@ -32,25 +32,25 @@
   {
     "full_name": "janpaepke/ScrollMagic",
     "stargazers_count": 14136,
-    "open_issues_count": 515,
+    "open_issues_count": 516,
     "forks_count": 2056
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 44235,
-    "open_issues_count": 191,
-    "forks_count": 3629
+    "stargazers_count": 44269,
+    "open_issues_count": 193,
+    "forks_count": 3634
   },
   {
     "full_name": "Blizzard/node-rdkafka",
-    "stargazers_count": 1931,
-    "open_issues_count": 56,
-    "forks_count": 372
+    "stargazers_count": 1932,
+    "open_issues_count": 55,
+    "forks_count": 371
   },
   {
     "full_name": "caro401/public-notes",
     "stargazers_count": 3,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3213,
+    "stargazers_count": 3217,
     "open_issues_count": 64,
     "forks_count": 36
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2740,
+    "stargazers_count": 2753,
     "open_issues_count": 22,
-    "forks_count": 155
+    "forks_count": 156
   },
   {
     "full_name": "apache/kafka-site",
     "stargazers_count": 53,
     "open_issues_count": 6,
-    "forks_count": 234
+    "forks_count": 233
   },
   {
     "full_name": "rmoff/devrel-mastodon",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 24004,
-    "open_issues_count": 984,
-    "forks_count": 12239
+    "stargazers_count": 24024,
+    "open_issues_count": 989,
+    "forks_count": 12249
   },
   {
     "full_name": "j4rola/nestapp",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3046,
+    "stargazers_count": 3051,
     "open_issues_count": 231,
-    "forks_count": 418
+    "forks_count": 419
   },
   {
     "full_name": "gklijs/schema_registry_converter",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 2,
     "forks_count": 20
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1285,
+    "stargazers_count": 1287,
     "open_issues_count": 3,
     "forks_count": 828
   },
