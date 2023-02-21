@@ -7,9 +7,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 27486,
-    "open_issues_count": 202,
-    "forks_count": 2954
+    "stargazers_count": 29298,
+    "open_issues_count": 213,
+    "forks_count": 3229
   },
   {
     "full_name": "confluentinc/kafka-rest",
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "janpaepke/ScrollMagic",
-    "stargazers_count": 14161,
+    "stargazers_count": 14166,
     "open_issues_count": 517,
-    "forks_count": 2055
+    "forks_count": 2054
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 44429,
-    "open_issues_count": 195,
-    "forks_count": 3642
+    "stargazers_count": 44484,
+    "open_issues_count": 196,
+    "forks_count": 3641
   },
   {
     "full_name": "Blizzard/node-rdkafka",
-    "stargazers_count": 1936,
+    "stargazers_count": 1937,
     "open_issues_count": 56,
     "forks_count": 371
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3244,
+    "stargazers_count": 3249,
     "open_issues_count": 65,
     "forks_count": 37
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2809,
+    "stargazers_count": 2821,
     "open_issues_count": 23,
     "forks_count": 157
   },
   {
     "full_name": "apache/kafka-site",
     "stargazers_count": 53,
-    "open_issues_count": 6,
-    "forks_count": 237
+    "open_issues_count": 7,
+    "forks_count": 238
   },
   {
     "full_name": "rmoff/devrel-mastodon",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 24173,
-    "open_issues_count": 1014,
-    "forks_count": 12301
+    "stargazers_count": 24205,
+    "open_issues_count": 1021,
+    "forks_count": 12313
   },
   {
     "full_name": "j4rola/nestapp",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3080,
+    "stargazers_count": 3085,
     "open_issues_count": 236,
-    "forks_count": 425
+    "forks_count": 426
   },
   {
     "full_name": "gklijs/schema_registry_converter",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "confluentinc/demo-scene",
-    "stargazers_count": 1297,
+    "stargazers_count": 1300,
     "open_issues_count": 4,
-    "forks_count": 831
+    "forks_count": 832
   },
   {
     "full_name": "Cerchie/sample-sdk",
