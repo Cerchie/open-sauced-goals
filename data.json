@@ -3,24 +3,24 @@
     "full_name": "Blizzard/node-rdkafka",
     "stargazers_count": 1939,
     "open_issues_count": 56,
-    "forks_count": 372
+    "forks_count": 371
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 24259,
-    "open_issues_count": 1007,
-    "forks_count": 12339
+    "stargazers_count": 24296,
+    "open_issues_count": 1004,
+    "forks_count": 12355
   },
   {
     "full_name": "tulios/kafkajs",
     "stargazers_count": 3097,
-    "open_issues_count": 223,
-    "forks_count": 427
+    "open_issues_count": 225,
+    "forks_count": 429
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 844,
+    "stargazers_count": 845,
     "open_issues_count": 7,
-    "forks_count": 542
+    "forks_count": 548
   }
 ]
