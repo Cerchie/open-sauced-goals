@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "KasperZutterman/Second-Brain",
+    "stargazers_count": 1107,
+    "open_issues_count": 0,
+    "forks_count": 55
+  },
+  {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 15110,
-    "open_issues_count": 8,
-    "forks_count": 1084
+    "stargazers_count": 16746,
+    "open_issues_count": 10,
+    "forks_count": 1208
   },
   {
     "full_name": "j4rola/fullCalender-nextjs",
@@ -15,13 +21,13 @@
     "full_name": "ncase/crowds",
     "stargazers_count": 411,
     "open_issues_count": 33,
-    "forks_count": 98
+    "forks_count": 97
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7155,
+    "stargazers_count": 7159,
     "open_issues_count": 3,
-    "forks_count": 906
+    "forks_count": 909
   },
   {
     "full_name": "davetroiano/confluent-thingsboard",
@@ -31,14 +37,14 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 46680,
-    "open_issues_count": 188,
-    "forks_count": 5498
+    "stargazers_count": 49807,
+    "open_issues_count": 198,
+    "forks_count": 5858
   },
   {
     "full_name": "confluentinc/kafka-rest",
-    "stargazers_count": 2068,
-    "open_issues_count": 252,
+    "stargazers_count": 2069,
+    "open_issues_count": 242,
     "forks_count": 629
   },
   {
@@ -55,19 +61,19 @@
   },
   {
     "full_name": "janpaepke/ScrollMagic",
-    "stargazers_count": 14210,
+    "stargazers_count": 14221,
     "open_issues_count": 518,
-    "forks_count": 2057
+    "forks_count": 2059
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 44738,
+    "stargazers_count": 44769,
     "open_issues_count": 197,
-    "forks_count": 3645
+    "forks_count": 3648
   },
   {
     "full_name": "Blizzard/node-rdkafka",
-    "stargazers_count": 1948,
+    "stargazers_count": 1950,
     "open_issues_count": 57,
     "forks_count": 372
   },
@@ -85,8 +91,8 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3276,
-    "open_issues_count": 66,
+    "stargazers_count": 3281,
+    "open_issues_count": 67,
     "forks_count": 39
   },
   {
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2873,
+    "stargazers_count": 2881,
     "open_issues_count": 24,
     "forks_count": 160
   },
@@ -111,7 +117,7 @@
     "full_name": "apache/kafka-site",
     "stargazers_count": 52,
     "open_issues_count": 9,
-    "forks_count": 243
+    "forks_count": 245
   },
   {
     "full_name": "rmoff/devrel-mastodon",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 24411,
+    "stargazers_count": 24439,
     "open_issues_count": 1024,
-    "forks_count": 12410
+    "forks_count": 12428
   },
   {
     "full_name": "j4rola/nestapp",
@@ -157,8 +163,8 @@
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3124,
-    "open_issues_count": 233,
+    "stargazers_count": 3132,
+    "open_issues_count": 234,
     "forks_count": 433
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 9,
     "open_issues_count": 12,
     "forks_count": 16
-  },
-  {
-    "full_name": "Virtual-Coffee/hacktoberfest",
-    "stargazers_count": 13,
-    "open_issues_count": 1,
-    "forks_count": 5
   }
 ]
