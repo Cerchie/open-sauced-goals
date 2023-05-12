@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "andreadev-it/stacking-contexts-inspector",
+    "stargazers_count": 260,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
     "full_name": "confluentinc/examples",
-    "stargazers_count": 1724,
-    "open_issues_count": 96,
-    "forks_count": 1080
+    "stargazers_count": 1727,
+    "open_issues_count": 95,
+    "forks_count": 1081
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 875,
+    "stargazers_count": 878,
     "open_issues_count": 9,
-    "forks_count": 610
+    "forks_count": 612
   },
   {
     "full_name": "tc39/proposal-async-context",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 17,
     "forks_count": 7
   },
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "sw-yx/ai-notes",
-    "stargazers_count": 2832,
+    "stargazers_count": 2844,
     "open_issues_count": 2,
-    "forks_count": 219
+    "forks_count": 221
   },
   {
     "full_name": "ellegantcss/ellegant",
     "stargazers_count": 68,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "leemunroe/cli-style-guide",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "KasperZutterman/Second-Brain",
-    "stargazers_count": 1144,
+    "stargazers_count": 1148,
     "open_issues_count": 0,
     "forks_count": 58
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 27962,
-    "open_issues_count": 40,
-    "forks_count": 2363
+    "stargazers_count": 28229,
+    "open_issues_count": 42,
+    "forks_count": 2403
   },
   {
     "full_name": "j4rola/fullCalender-nextjs",
@@ -63,31 +69,31 @@
     "full_name": "ncase/crowds",
     "stargazers_count": 412,
     "open_issues_count": 33,
-    "forks_count": 98
+    "forks_count": 97
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7287,
+    "stargazers_count": 7308,
     "open_issues_count": 3,
-    "forks_count": 946
+    "forks_count": 952
   },
   {
     "full_name": "davetroiano/confluent-thingsboard",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 73050,
-    "open_issues_count": 255,
-    "forks_count": 9217
+    "stargazers_count": 73785,
+    "open_issues_count": 260,
+    "forks_count": 9322
   },
   {
     "full_name": "confluentinc/kafka-rest",
     "stargazers_count": 2089,
-    "open_issues_count": 240,
-    "forks_count": 634
+    "open_issues_count": 238,
+    "forks_count": 633
   },
   {
     "full_name": "GantMan/Public_Speaking_Hits",
@@ -97,26 +103,26 @@
   },
   {
     "full_name": "MaggieAppleton/invenntion",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "janpaepke/ScrollMagic",
-    "stargazers_count": 14308,
+    "stargazers_count": 14318,
     "open_issues_count": 519,
     "forks_count": 2069
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 45099,
+    "stargazers_count": 45117,
     "open_issues_count": 201,
-    "forks_count": 3656
+    "forks_count": 3657
   },
   {
     "full_name": "Blizzard/node-rdkafka",
-    "stargazers_count": 1962,
-    "open_issues_count": 58,
+    "stargazers_count": 1963,
+    "open_issues_count": 61,
     "forks_count": 377
   },
   {
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3350,
+    "stargazers_count": 3359,
     "open_issues_count": 70,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "krisajenkins/Kafka_202",
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 3000,
+    "stargazers_count": 3009,
     "open_issues_count": 24,
-    "forks_count": 163
+    "forks_count": 164
   },
   {
     "full_name": "apache/kafka-site",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 8,
     "forks_count": 256
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "nickytonline/test-missing-dependencies-nextjs",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
