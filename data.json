@@ -7,20 +7,20 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 25073,
-    "open_issues_count": 1039,
-    "forks_count": 12661
+    "stargazers_count": 25100,
+    "open_issues_count": 1033,
+    "forks_count": 12684
   },
   {
     "full_name": "tulios/kafkajs",
-    "stargazers_count": 3252,
-    "open_issues_count": 255,
+    "stargazers_count": 3256,
+    "open_issues_count": 257,
     "forks_count": 443
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 882,
     "open_issues_count": 0,
-    "forks_count": 643
+    "forks_count": 646
   }
 ]
