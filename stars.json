@@ -1,14 +1,14 @@
 [
   {
     "full_name": "microsoft/TypeChat",
-    "stargazers_count": 6211,
+    "stargazers_count": 6304,
     "open_issues_count": 36,
-    "forks_count": 266
+    "forks_count": 273
   },
   {
     "full_name": "glorious-codes/glorious-demo",
     "stargazers_count": 3377,
-    "open_issues_count": 12,
+    "open_issues_count": 14,
     "forks_count": 118
   },
   {
@@ -26,8 +26,8 @@
   {
     "full_name": "open-sauced/docs",
     "stargazers_count": 42,
-    "open_issues_count": 20,
-    "forks_count": 40
+    "open_issues_count": 24,
+    "forks_count": 42
   },
   {
     "full_name": "build-on-aws/building-apache-kafka-connectors",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "datopian/flowershow",
-    "stargazers_count": 462,
+    "stargazers_count": 463,
     "open_issues_count": 123,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "andreadev-it/stacking-contexts-inspector",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 886,
+    "stargazers_count": 887,
     "open_issues_count": 0,
-    "forks_count": 695
+    "forks_count": 701
   },
   {
     "full_name": "tc39/proposal-async-context",
-    "stargazers_count": 316,
+    "stargazers_count": 317,
     "open_issues_count": 13,
     "forks_count": 9
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "swyxio/ai-notes",
-    "stargazers_count": 3630,
+    "stargazers_count": 3672,
     "open_issues_count": 0,
-    "forks_count": 268
+    "forks_count": 272
   },
   {
     "full_name": "ellegantcss/ellegant",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "KasperZutterman/Second-Brain",
-    "stargazers_count": 1211,
+    "stargazers_count": 1212,
     "open_issues_count": 0,
     "forks_count": 67
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 34959,
-    "open_issues_count": 56,
-    "forks_count": 3138
+    "stargazers_count": 35049,
+    "open_issues_count": 57,
+    "forks_count": 3158
   },
   {
     "full_name": "j4rola/fullCalender-nextjs",
@@ -122,26 +122,26 @@
   {
     "full_name": "ncase/crowds",
     "stargazers_count": 415,
-    "open_issues_count": 33,
+    "open_issues_count": 34,
     "forks_count": 98
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7542,
+    "stargazers_count": 7547,
     "open_issues_count": 5,
-    "forks_count": 1031
+    "forks_count": 1033
   },
   {
     "full_name": "davetroiano/confluent-thingsboard",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 86848,
+    "stargazers_count": 87058,
     "open_issues_count": 294,
-    "forks_count": 11674
+    "forks_count": 11717
   },
   {
     "full_name": "confluentinc/kafka-rest",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "janpaepke/ScrollMagic",
-    "stargazers_count": 14492,
-    "open_issues_count": 518,
-    "forks_count": 2129
+    "stargazers_count": 14496,
+    "open_issues_count": 519,
+    "forks_count": 2130
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 46851,
+    "stargazers_count": 46882,
     "open_issues_count": 205,
-    "forks_count": 3705
+    "forks_count": 3708
   },
   {
     "full_name": "Blizzard/node-rdkafka",
-    "stargazers_count": 1986,
-    "open_issues_count": 75,
+    "stargazers_count": 1988,
+    "open_issues_count": 76,
     "forks_count": 386
   }
 ]
