@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "ChangoMan/nextjs-mdx-blog",
+    "stargazers_count": 272,
+    "open_issues_count": 2,
+    "forks_count": 136
+  },
+  {
     "full_name": "pvainio/adventofcode",
-    "stargazers_count": 9,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "aws-samples/aws-mlu-explain",
-    "stargazers_count": 337,
+    "stargazers_count": 338,
     "open_issues_count": 6,
     "forks_count": 56
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 10159,
-    "open_issues_count": 247,
-    "forks_count": 784
+    "stargazers_count": 10170,
+    "open_issues_count": 246,
+    "forks_count": 786
   },
   {
     "full_name": "gianlucanatali/streaming-games",
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "arxanas/git-branchless",
-    "stargazers_count": 3072,
-    "open_issues_count": 52,
+    "stargazers_count": 3075,
+    "open_issues_count": 53,
     "forks_count": 67
   },
   {
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "bigskysoftware/hypermedia-systems",
-    "stargazers_count": 376,
-    "open_issues_count": 25,
-    "forks_count": 54
+    "stargazers_count": 381,
+    "open_issues_count": 28,
+    "forks_count": 56
   },
   {
     "full_name": "bigskysoftware/contact-app",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "microsoft/TypeChat",
-    "stargazers_count": 7135,
-    "open_issues_count": 55,
-    "forks_count": 324
+    "stargazers_count": 7145,
+    "open_issues_count": 56,
+    "forks_count": 329
   },
   {
     "full_name": "glorious-codes/glorious-demo",
@@ -74,8 +80,8 @@
   {
     "full_name": "open-sauced/docs",
     "stargazers_count": 55,
-    "open_issues_count": 16,
-    "forks_count": 51
+    "open_issues_count": 17,
+    "forks_count": 53
   },
   {
     "full_name": "build-on-aws/building-apache-kafka-connectors",
@@ -97,13 +103,13 @@
   },
   {
     "full_name": "datopian/flowershow",
-    "stargazers_count": 545,
+    "stargazers_count": 547,
     "open_issues_count": 131,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "andreadev-it/stacking-contexts-inspector",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -111,13 +117,13 @@
     "full_name": "confluentinc/examples",
     "stargazers_count": 1808,
     "open_issues_count": 101,
-    "forks_count": 1092
+    "forks_count": 1093
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 898,
+    "stargazers_count": 899,
     "open_issues_count": 0,
-    "forks_count": 781
+    "forks_count": 782
   },
   {
     "full_name": "tc39/proposal-async-context",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "swyxio/ai-notes",
-    "stargazers_count": 3980,
+    "stargazers_count": 3990,
     "open_issues_count": 1,
-    "forks_count": 291
+    "forks_count": 292
   },
   {
     "full_name": "ellegantcss/ellegant",
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "KasperZutterman/Second-Brain",
-    "stargazers_count": 1271,
+    "stargazers_count": 1274,
     "open_issues_count": 1,
     "forks_count": 70
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 38021,
-    "open_issues_count": 47,
-    "forks_count": 3490
+    "stargazers_count": 38107,
+    "open_issues_count": 48,
+    "forks_count": 3503
   },
   {
     "full_name": "j4rola/fullCalender-nextjs",
@@ -172,11 +178,5 @@
     "stargazers_count": 419,
     "open_issues_count": 35,
     "forks_count": 100
-  },
-  {
-    "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7635,
-    "open_issues_count": 6,
-    "forks_count": 1068
   }
 ]
