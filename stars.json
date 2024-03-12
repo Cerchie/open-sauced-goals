@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "TejasQ/event-sourcing-for-the-rest-of-us",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "glorious-codes/glorious-fyzer",
     "stargazers_count": 6,
     "open_issues_count": 1,
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "pmoskovi/kafka-learning-resources",
-    "stargazers_count": 170,
+    "stargazers_count": 176,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "wiverson/htmx-demo",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 2,
     "forks_count": 44
   },
   {
     "full_name": "ChangoMan/nextjs-mdx-blog",
-    "stargazers_count": 296,
+    "stargazers_count": 297,
     "open_issues_count": 2,
-    "forks_count": 138
+    "forks_count": 140
   },
   {
     "full_name": "pvainio/adventofcode",
@@ -49,14 +55,14 @@
   },
   {
     "full_name": "aws-samples/aws-mlu-explain",
-    "stargazers_count": 356,
+    "stargazers_count": 358,
     "open_issues_count": 7,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 10513,
-    "open_issues_count": 228,
+    "stargazers_count": 10526,
+    "open_issues_count": 227,
     "forks_count": 744
   },
   {
@@ -67,8 +73,8 @@
   },
   {
     "full_name": "arxanas/git-branchless",
-    "stargazers_count": 3217,
-    "open_issues_count": 70,
+    "stargazers_count": 3236,
+    "open_issues_count": 72,
     "forks_count": 76
   },
   {
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "bigskysoftware/hypermedia-systems",
-    "stargazers_count": 524,
+    "stargazers_count": 526,
     "open_issues_count": 8,
     "forks_count": 78
   },
@@ -91,19 +97,19 @@
   },
   {
     "full_name": "microsoft/TypeChat",
-    "stargazers_count": 7538,
+    "stargazers_count": 7549,
     "open_issues_count": 65,
-    "forks_count": 354
+    "forks_count": 356
   },
   {
     "full_name": "glorious-codes/glorious-demo",
-    "stargazers_count": 3394,
+    "stargazers_count": 3396,
     "open_issues_count": 16,
-    "forks_count": 117
+    "forks_count": 107
   },
   {
     "full_name": "hifly81/kafka-examples",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 3,
     "forks_count": 7
   },
@@ -116,7 +122,7 @@
   {
     "full_name": "open-sauced/docs",
     "stargazers_count": 65,
-    "open_issues_count": 22,
+    "open_issues_count": 21,
     "forks_count": 60
   },
   {
@@ -133,37 +139,37 @@
   },
   {
     "full_name": "etolbakov/excalidocker-rs",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 7,
     "forks_count": 4
   },
   {
     "full_name": "datopian/flowershow",
-    "stargazers_count": 635,
+    "stargazers_count": 638,
     "open_issues_count": 125,
     "forks_count": 79
   },
   {
     "full_name": "andreadev-it/stacking-contexts-inspector",
-    "stargazers_count": 337,
+    "stargazers_count": 338,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "confluentinc/examples",
-    "stargazers_count": 1831,
+    "stargazers_count": 1835,
     "open_issues_count": 101,
-    "forks_count": 1097
+    "forks_count": 1098
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 913,
     "open_issues_count": 0,
-    "forks_count": 846
+    "forks_count": 848
   },
   {
     "full_name": "tc39/proposal-async-context",
-    "stargazers_count": 420,
+    "stargazers_count": 423,
     "open_issues_count": 10,
     "forks_count": 11
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 43,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "swyxio/ai-notes",
-    "stargazers_count": 4399,
-    "open_issues_count": 1,
-    "forks_count": 324
   }
 ]
